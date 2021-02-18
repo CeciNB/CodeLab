@@ -4,7 +4,7 @@ Code from tutor sessions by Cecilie
 
 For Computer Science students at KEA
 
-## Installation
+## Cloning
 
 ### Practice using command line
 
