@@ -1,13 +1,8 @@
 # CodeLab
 
-Code from tutor sessions by:
+Code from tutor sessions by Cecilie
 
-```
-Name Cecilie
-Title Tutor
-School KEA
-Education Computer Science
-```
+For Computer Science students at KEA
 
 ## Installation
 
