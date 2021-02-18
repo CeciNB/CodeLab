@@ -8,7 +8,7 @@ For Computer Science students at KEA
 
 ### Practice using command line
 
-1. Get the path you want your project at example: cd /Users/CeciNB/Projects/KEA
+1. Get the path you want your project at - example: cd /Users/CeciNB/Projects/KEA
 ```bash 
 $ cd <path-to-your-projects>
 ```
@@ -16,7 +16,7 @@ $ cd <path-to-your-projects>
 ```bash
 $ git clone https://github.com/CeciNB/CodeLab
 ```
-3. From intelliJ (or preffered IDE) open the folder 'CodeLab' as new project 
+3. From intelliJ (or preffered IDE) you can open project from the folder 'CodeLab' located at ``` <path-to-your-projects> ```
 
 You can at any point pull updates when in the 'CodeLab' folder with this command:
 ```bash
